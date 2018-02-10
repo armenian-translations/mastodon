@@ -167,7 +167,7 @@ en:
       copy_failed_msg: Could not make a local copy of that emoji
       created_msg: Emoji successfully created!
       delete: Delete
-      destroyed_msg: Emojo successfully destroyed!
+      destroyed_msg: Emoji successfully destroyed!
       disable: Disable
       disabled_msg: Successfully disabled that emoji
       emoji: Emoji
