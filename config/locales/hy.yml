@@ -1,298 +1,298 @@
 ---
-en:
+hy:
   about:
-    about_hashtag_html: These are public toots tagged with <strong>#%{hashtag}</strong>. You can interact with them if you have an account anywhere in the fediverse.
-    about_mastodon_html: Mastodon is a social network based on open web protocols and free, open-source software. It is decentralized like e-mail.
-    about_this: About
-    closed_registrations: Registrations are currently closed on this instance. However! You can find a different instance to make an account on and get access to the very same network from there.
-    contact: Contact
-    contact_missing: Not set
-    contact_unavailable: N/A
-    description_headline: What is %{domain}?
-    domain_count_after: other instances
-    domain_count_before: Connected to
+    about_hashtag_html: Սրանք <strong>#%{hashtag}</strong> պիտակով նշված հրապարակային թթերն են։ Կարող ես փոխգործակցել դրանց հետ, եթե հաշիվ ունես դաշնեզերքի որեւէ հանգույցում։
+    about_mastodon_html: Մաստոդոնը սոցիալական ցանց է, որի հիմքում ազատ, բաց ելատեքստով ծրագրակազմ ու բաց վեբ հաղորդակարգեր են։ Այն ապակենտրոնացված է, ճիշտ էլ․փոստի պես։
+    about_this: Մեր մասին
+    closed_registrations: Մեր հանգույցում գրանցումն այս պահին փակ է։ Սակա՜յն, կարող ես այս նույն ցանցին միանալ՝ մեկ այլ հանգույցում հաշիվ բացելով։
+    contact: Կապ
+    contact_missing: Նշված չէ
+    contact_unavailable: Անհասանելի է
+    description_headline: Ի՞նչ է %{domain}֊ը։
+    domain_count_after: այլ հանգույցների հետ
+    domain_count_before: Կապի մեջ է
     extended_description_html: |
-      <h3>A good place for rules</h3>
-      <p>The extended description has not been set up yet.</p>
+      <h3>Այստեղ կարող է լինել Ձեր կանոնակարգը</h3>
+      <p>Մանրամասն նկարագրությունը դեռ հստակեցված չէ։</p>
     features:
-      humane_approach_body: Learning from failures of other networks, Mastodon aims to make ethical design choices to combat the misuse of social media.
-      humane_approach_title: A more humane approach
-      not_a_product_body: Mastodon is not a commercial network. No advertising, no data mining, no walled gardens. There is no central authority.
-      not_a_product_title: You’re a person, not a product
-      real_conversation_body: With 500 characters at your disposal and support for granular content and media warnings, you can express yourself the way you want to.
-      real_conversation_title: Built for real conversation
-      within_reach_body: Multiple apps for iOS, Android, and other platforms thanks to a developer-friendly API ecosystem allow you to keep up with your friends anywhere.
-      within_reach_title: Always within reach
-    find_another_instance: Find another instance
-    generic_description: "%{domain} is one server in the network"
-    hosted_on: Mastodon hosted on %{domain}
-    learn_more: Learn more
-    other_instances: Instance list
-    source_code: Source code
-    status_count_after: statuses
-    status_count_before: Who authored
-    user_count_after: users
-    user_count_before: Home to
-    what_is_mastodon: What is Mastodon?
+      humane_approach_body: Այլ ցանցերի տապալումներից դաս քաղելով՝ Մաստոդոնը ձգտում է բարոյական նախագծային լուծումներ գտնել սոցիալական մեդիան չարաշահելը նվազեցնելու համար։
+      humane_approach_title: Առավել մարդկային մոտեցում
+      not_a_product_body: Մաստոդոնը կոմերցիոն ցանց չէ։ Այստեղ չկա գովազդ, տվյալների պեղում ու ցանկապատված այգիներ։ Կենտրոնական կառավարումն առհասարակ բացակայում է։
+      not_a_product_title: Դու անձ ես, ոչ թե ապրանք
+      real_conversation_body: Ունենալով 500 նիշ, բովանդակության տեսանելիության եւ նախազգուշացումների կարգավորումներ՝ կարող ես ինքնադրսեւորվել ուզածիդ պես։
+      real_conversation_title: Ստեղծված է իրական շփման համար
+      within_reach_body: Նախագծողների համար բարյացակամ ԷյՓիԱյ էկոհամակարգի շնորհիվ ստեղծված բազմաթիվ այՕՍ, Անդրոիդ ու այլ հարթակների հավելվածները թույլ են տալիս միշտ կապի մեջ լինել ընկերներիդ հետ։
+      within_reach_title: Միշտ հասանելի
+    find_another_instance: Գտնել այլ հանգույց
+    generic_description: "%{domain}֊ը ցանցի սպասարկիչներից մեկն է"
+    hosted_on: %{domain} Մաստոդոն հանգույց
+    learn_more: Իմացիր ավելին
+    other_instances: Հանգույցների ցանկ
+    source_code: Ելատեքստ
+    status_count_after: գրառում
+    status_count_before: Ովքեր հեղինակել են
+    user_count_after: օգտատեր
+    user_count_before: Բնակվում է
+    what_is_mastodon: Ի՞նչ է Մաստոդոնը
   accounts:
-    follow: Follow
-    followers: Followers
-    following: Following
-    media: Media
-    moved_html: "%{name} has moved to %{new_profile_link}:"
-    nothing_here: There is nothing here!
-    people_followed_by: People whom %{name} follows
-    people_who_follow: People who follow %{name}
-    posts: Toots
-    posts_with_replies: Toots and replies
-    remote_follow: Remote follow
-    reserved_username: The username is reserved
+    follow: Հետեւել
+    followers: Հետեւողներ
+    following: Հետեւում է
+    media: Մեդիա
+    moved_html: "%{name}֊ը տեղափոխվել է %{new_profile_link}:"
+    nothing_here: Այստեղ դեռ ոչինչ չկա։
+    people_followed_by: Նրանք, ում %{name}֊ը հետեւում է
+    people_who_follow: Նրանք, ովքեր հետեւում են %{name}֊ին
+    posts: Թթեր
+    posts_with_replies: Թթեր ու արձագանքներ
+    remote_follow: Հետեւել ուրիշ հանգույցից
+    reserved_username: Օգտանունն ամրագրված է
     roles:
-      admin: Admin
-      moderator: Mod
-    unfollow: Unfollow
+      admin: Վարչապետ
+      moderator: Նախարար
+    unfollow: Ապահետեւել
   admin:
     account_moderation_notes:
-      account: Moderator
-      create: Create
-      created_at: Date
-      created_msg: Moderation note successfully created!
-      delete: Delete
-      destroyed_msg: Moderation note successfully destroyed!
+      account: Նախարար
+      create: Ստեղծել
+      created_at: Ամսաթիվ
+      created_msg: Նախարարական ուղերձը հաջողությամբ ստեղծվեց։
+      delete: Ջնջել
+      destroyed_msg: Նախարարական ուղերձը հաջողությամբ ոչնչացվեց։
     accounts:
-      are_you_sure: Are you sure?
-      by_domain: Domain
-      confirm: Confirm
-      confirmed: Confirmed
-      demote: Demote
-      disable: Disable
-      disable_two_factor_authentication: Disable 2FA
-      disabled: Disabled
-      display_name: Display name
-      domain: Domain
-      edit: Edit
-      email: E-mail
-      enable: Enable
-      enabled: Enabled
-      feed_url: Feed URL
-      followers: Followers
-      followers_url: Followers URL
-      follows: Follows
-      inbox_url: Inbox URL
-      ip: IP
+      are_you_sure: Վստա՞հ ես։
+      by_domain: Տիրույթ
+      confirm: Հաստատել
+      confirmed: Հաստատված է
+      demote: Պաշտնանկել
+      disable: Անջատել
+      disable_two_factor_authentication: Անջատել 2ԳԻ
+      disabled: Անջատված է
+      display_name: Անուն
+      domain: Տիրույթ
+      edit: Փոփոխել
+      email: Էլ․հասցե
+      enable: Միացնել
+      enabled: Միացված է
+      feed_url: Հոսքի հղում
+      followers: Հետեւողներ
+      followers_url: Հետեւողների հղում
+      follows: Հետեւում է
+      inbox_url: Փոստարկղի հղում
+      ip: ԱյՓի
       location:
-        all: All
-        local: Local
-        remote: Remote
-        title: Location
-      login_status: Login status
-      media_attachments: Media attachments
-      memorialize: Turn into memoriam
+        all: Բոլորը
+        local: Տեղական
+        remote: Հեռավոր
+        title: Տեղակայում
+      login_status: Մուտքի  կարգավիճակ
+      media_attachments: Մեդիա կցորդներ
+      memorialize: Դարձնել հուշարձան
       moderation:
-        all: All
-        silenced: Silenced
-        suspended: Suspended
-        title: Moderation
-      moderation_notes: Moderation notes
-      most_recent_activity: Most recent activity
-      most_recent_ip: Most recent IP
-      not_subscribed: Not subscribed
+        all: Բոլորը
+        silenced: Լռեցվածները
+        suspended: Դադարեցվածները
+        title: Կանոնավորում
+      moderation_notes: Նախարարական դիտողություններ
+      most_recent_activity: Վերջին ակտիվությունը
+      most_recent_ip: Վերջին ԱյՓին
+      not_subscribed: Չբաժանորդագրված
       order:
-        alphabetic: Alphabetic
-        most_recent: Most recent
-        title: Order
-      outbox_url: Outbox URL
-      perform_full_suspension: Perform full suspension
-      profile_url: Profile URL
-      promote: Promote
-      protocol: Protocol
-      public: Public
-      push_subscription_expires: PuSH subscription expires
-      redownload: Refresh avatar
-      reset: Reset
-      reset_password: Reset password
-      resubscribe: Resubscribe
-      role: Permissions
+        alphabetic: Այբբենական
+        most_recent: Ըստ ամսաթվի
+        title: Կարգ
+      outbox_url: Ելքայինների հղում
+      perform_full_suspension: Իրականացնել ամբողջական դադարեցում
+      profile_url: Էջի հղում
+      promote: Կոչում տալ
+      protocol: Հաղորդակարգ
+      public: Հրապարակային
+      push_subscription_expires: PuSH բաժանորդագրությունը լրանում է
+      redownload: Թարմացնել նկարը
+      reset: Վերակայել
+      reset_password: Վերակայել գաղտնաբառը
+      resubscribe: Վերաբաժանորդագրվել
+      role: Լիազորություններ
       roles:
-        admin: Administrator
-        moderator: Moderator
-        staff: Staff
-        user: User
-      salmon_url: Salmon URL
-      search: Search
-      shared_inbox_url: Shared Inbox URL
+        admin: Վարչապետ
+        moderator: Նախարար
+        staff: Աշխատակազմ
+        user: Օգտատեր
+      salmon_url: Սալմոն (հաղորդակարգ) հղում
+      search: Որոնել
+      shared_inbox_url: Համատեղ փոստարկղի հղում
       show:
-        created_reports: Reports created by this account
-        report: report
-        targeted_reports: Reports made about this account
-      silence: Silence
-      statuses: Statuses
-      subscribe: Subscribe
-      title: Accounts
-      undo_silenced: Undo silence
-      undo_suspension: Undo suspension
-      unsubscribe: Unsubscribe
-      username: Username
-      web: Web
+        created_reports: Բողոքներ այս հաշվի կողմից
+        report: բողոք
+        targeted_reports: Բողոքներ այս հաշվի վերաբերյալ
+      silence: Լռեցնել
+      statuses: Թթեր
+      subscribe: Բաժանորդագրվել
+      title: Հաշիվներ
+      undo_silenced: Ետարկել լռեցումը
+      undo_suspension: Ետարկել դադարեցումը
+      unsubscribe: Ապաբաժանորդագրվել
+      username: Օգտանուն
+      web: Կայքում
     action_logs:
       actions:
-        confirm_user: "%{name} confirmed e-mail address of user %{target}"
-        create_custom_emoji: "%{name} uploaded new emoji %{target}"
-        create_domain_block: "%{name} blocked domain %{target}"
-        create_email_domain_block: "%{name} blacklisted e-mail domain %{target}"
-        demote_user: "%{name} demoted user %{target}"
-        destroy_domain_block: "%{name} unblocked domain %{target}"
-        destroy_email_domain_block: "%{name} whitelisted e-mail domain %{target}"
-        destroy_status: "%{name} removed status by %{target}"
-        disable_2fa_user: "%{name} disabled two factor requirement for user %{target}"
-        disable_custom_emoji: "%{name} disabled emoji %{target}"
-        disable_user: "%{name} disabled login for user %{target}"
-        enable_custom_emoji: "%{name} enabled emoji %{target}"
-        enable_user: "%{name} enabled login for user %{target}"
-        memorialize_account: "%{name} turned %{target}'s account into a memoriam page"
-        promote_user: "%{name} promoted user %{target}"
-        reset_password_user: "%{name} reset password of user %{target}"
-        resolve_report: "%{name} dismissed report %{target}"
-        silence_account: "%{name} silenced %{target}'s account"
-        suspend_account: "%{name} suspended %{target}'s account"
-        unsilence_account: "%{name} unsilenced %{target}'s account"
-        unsuspend_account: "%{name} unsuspended %{target}'s account"
-        update_custom_emoji: "%{name} updated emoji %{target}"
-        update_status: "%{name} updated status by %{target}"
-      title: Audit log
+        confirm_user: "%{name}֊ը հաստատեց %{target} օգտատիրոջ էլ․ փոստի հասցեն"
+        create_custom_emoji: "%{name}֊ը վերբեռնել է նոր էմոջի %{target}"
+        create_domain_block: "%{name}֊ն արգելափակել է %{target} տիրույթը"
+        create_email_domain_block: "%{name}֊ը սեւ ցուցակ է ավելացրել %{target} էլ․ փոստի տիրույթը"
+        demote_user: "%{name}֊ը պաշտնանկել է %{target} օգտատիրոջը"
+        destroy_domain_block: "%{name}֊ն ապաարգելափակել է %{target} տիրույթը"
+        destroy_email_domain_block: "%{name}֊ը հանել է սեւ ցուցակից %{target} էլ․ փոստի տիրույթը"
+        destroy_status: "%{name}֊ը հեռացրել է %{target}֊ի թութը"
+        disable_2fa_user: "%{name}֊ն անջատել է %{target} օգտատիրոջ երկգործոնային ինքնորոշումը"
+        disable_custom_emoji: "%{name}֊ն անջատել է %{target} էմոջին"
+        disable_user: "%{name}֊ն անջատել է %{target} օգտատիրոջ մուտքը"
+        enable_custom_emoji: "%{name}֊ը միացրել է %{target} էմոջին"
+        enable_user: "%{name}֊ը միացրել է %{target} օգտատիրոջ մուտքը"
+        memorialize_account: "%{name}֊ը վերածել է %{target}֊ի հաշիվը հուշարձան էջի"
+        promote_user: "%{name}֊ը կոչում է տվել %{target} օգտատիրոջը"
+        reset_password_user: "%{name}֊ը վերակայեց %{target} օգտատիրոջ գաղտնաբառը"
+        resolve_report: "%{name}֊ն անտեսել է %{target} բողոքը"
+        silence_account: "%{name}֊ը լռեցրել է %{target}֊ի հաշիվը"
+        suspend_account: "%{name}֊ը դադարեցրել է %{target}֊ի հաշիվը"
+        unsilence_account: "%{name}֊ն ապալռեցրել է %{target}֊ի հաշիվը"
+        unsuspend_account: "%{name}֊ն ապադադարեցրել է %{target}֊ի հաշիվը"
+        update_custom_emoji: "%{name}֊ը թարմացրել է %{target} էմոջին"
+        update_status: "%{name}֊ը թարմացրել է %{target}֊ի թութը"
+      title: Ստուգումների մատյան
     custom_emojis:
-      by_domain: Domain
-      copied_msg: Successfully created local copy of the emoji
-      copy: Copy
-      copy_failed_msg: Could not make a local copy of that emoji
-      created_msg: Emoji successfully created!
-      delete: Delete
-      destroyed_msg: Emoji successfully destroyed!
-      disable: Disable
-      disabled_msg: Successfully disabled that emoji
-      emoji: Emoji
-      enable: Enable
-      enabled_msg: Successfully enabled that emoji
-      image_hint: PNG up to 50KB
-      listed: Listed
+      by_domain: Տիրույթ
+      copied_msg: Բարեհաջող ստեղծվեց էմոջու տեղական պատճենը
+      copy: Պատճենել
+      copy_failed_msg: Չհաջողվեց ստեղծել էմոջու տեղական պատճենը
+      created_msg: Էմոջին բարեհաջող ստեղծվե՜ց
+      delete: Ջնջել
+      destroyed_msg: Էմոջին բարեհաջող ոչնչացվե՜ց
+      disable: Անջատել
+      disabled_msg: Էմոջին բարեհաջող անջատվեց
+      emoji: Էմոջի
+      enable: Միացնել
+      enabled_msg: Էմոջին բարեհաջող միացվեց
+      image_hint: PNG՝ մինչ 50KB չափսի
+      listed: Ցուցակագրված է
       new:
-        title: Add new custom emoji
-      overwrite: Overwrite
-      shortcode: Shortcode
-      shortcode_hint: At least 2 characters, only alphanumeric characters and underscores
-      title: Custom emojis
-      unlisted: Unlisted
-      update_failed_msg: Could not update that emoji
-      updated_msg: Emoji successfully updated!
-      upload: Upload
+        title: Ավելացնել նոր հատուկ էմոջի
+      overwrite: Վրագրել
+      shortcode: Կարճանուն
+      shortcode_hint: Առնվազն 2 նիշ․ միայն տառաթվային նիշեր ու ընդգծիկ
+      title: Հատուկ էմոջիներ
+      unlisted: Չցուցակագրված
+      update_failed_msg: Չստացվեց թարմացնել էմոջին
+      updated_msg: Էմոջին բարեհաջող թարմացվե՜ց
+      upload: Վերբեռնել
     domain_blocks:
-      add_new: Add new
-      created_msg: Domain block is now being processed
-      destroyed_msg: Domain block has been undone
-      domain: Domain
+      add_new: Ավելացնել
+      created_msg: Տիրույթի արգելքն այժմ մշակվում է
+      destroyed_msg: Տիրույթի արգելքը չեղարկվեց
+      domain: Տիրույթ
       new:
-        create: Create block
-        hint: The domain block will not prevent creation of account entries in the database, but will retroactively and automatically apply specific moderation methods on those accounts.
+        create: Ստեղծել արգելք
+        hint: Տիրույթի արգելքը չի խոչընդոտի տվյալների բազայում հաշիվների ստեղծմանը, սակայն ետին թվով եւ ավտոմատ կերպ կկիրառի հատուկ կառավարման գործառույթներ այդ հաշիվների հանդեպ։
         severity:
-          desc_html: "<strong>Silence</strong> will make the account's posts invisible to anyone who isn't following them. <strong>Suspend</strong> will remove all of the account's content, media, and profile data. Use <strong>None</strong> if you just want to reject media files."
-          noop: None
-          silence: Silence
-          suspend: Suspend
-        title: New domain block
-      reject_media: Reject media files
-      reject_media_hint: Removes locally stored media files and refuses to download any in the future. Irrelevant for suspensions
+          desc_html: "<strong>Լռեցնել</strong>֊ը հաշվի թթերը կդարձնի անտեսանելի բոլոր նրանց համար, ով իրեն չի հետեւում։ <strong>Դադարեցնել</strong>֊ը կհեռացնի հաշվի ամբողջ բովանդակությունը՝ ներառյալ մեդիան եւ էջի տբյալները։ Օգտագործիր <strong>Ոչ մեկ</strong>֊ը, եթե ուզում ես պարզապես մերժել մեդիա նիշքերը։"
+          noop: Ոչ մեկ
+          silence: Լռեցնել
+          suspend: Դադարեցնել
+        title: Տիրույթի նոր արգելք
+      reject_media: Մերժել մեդիա նիշքերը
+      reject_media_hint: Հեռացնում է տեղային պահված մեդիա նիշքերը եւ հրաժարվում է ներբեռնել նորերը ապագայում։ Չի վերաբերում դադարեցումներին։
       severities:
-        noop: None
-        silence: Silence
-        suspend: Suspend
-      severity: Severity
+        noop: Ոչ մեկ
+        silence: Լռեցնել
+        suspend: Դադարեցնել
+      severity: Խստությունը՝
       show:
         affected_accounts:
-          one: One account in the database affected
-          other: "%{count} accounts in the database affected"
+          one: Տվյալների բազայում մեկ հաշիվ ազդվեց
+          other: "Տվյալների բազայում %{count} հաշիվ ազդվեց"
         retroactive:
-          silence: Unsilence all existing accounts from this domain
-          suspend: Unsuspend all existing accounts from this domain
-        title: Undo domain block for %{domain}
-        undo: Undo
-      title: Domain blocks
-      undo: Undo
+          silence: Ապալռեցնել այս տիրույթի բոլոր հայտնի հաշիվները
+          suspend: Ապադադարեցնել այս տիրույթի բոլոր հայտնի հաշիվները
+        title: Ետարկել տիրույթի արգելքը %{domain}֊ի համար
+        undo: Ետարկել
+      title: Տիրույթի արգելքներ
+      undo: Ետարկել
     email_domain_blocks:
-      add_new: Add new
-      created_msg: Successfully added e-mail domain to blacklist
-      delete: Delete
-      destroyed_msg: Successfully deleted e-mail domain from blacklist
-      domain: Domain
+      add_new: Ավելացնել
+      created_msg: Էլ․ փոստի տիրույթը բարեհաջող ավելացվեց սեւ ցուցակին
+      delete: Ջնջել
+      destroyed_msg: Էլ․ փոստի տիրույթը բարեհաջող ջնջվեց սեւ ցուցակից
+      domain: Տիրույթ
       new:
-        create: Add domain
-        title: New e-mail blacklist entry
-      title: E-mail blacklist
+        create: Ավելացնել
+        title: Նոր էլ․ փոստի սեւ ցուցակի միավոր
+      title: Էլ․ փոստի սեւ ցուցակ
     instances:
-      account_count: Known accounts
-      domain_name: Domain
-      reset: Reset
-      search: Search
-      title: Known instances
+      account_count: Հայտնի հաշիվներ
+      domain_name: Տիրույթ
+      reset: Վերակայել
+      search: Որոնել
+      title: Հայտնի հանգույցներ
     invites:
       filter:
-        all: All
-        available: Available
-        expired: Expired
-        title: Filter
-      title: Invites
+        all: Բոլորը
+        available: Հասանելի
+        expired: Սպառված
+        title: Զտել
+      title: Հրավերներ
     reports:
-      action_taken_by: Action taken by
-      are_you_sure: Are you sure?
+      action_taken_by: Գործողությունն  իրականացրել է՝
+      are_you_sure: Համոզվա՞ծ ես
       comment:
-        label: Comment
-        none: None
-      delete: Delete
-      id: ID
-      mark_as_resolved: Mark as resolved
+        label: Մեկնաբանություն
+        none: Չկա
+      delete: Ջնջել
+      id: ԱյԴի
+      mark_as_resolved: Նշել որպես լուծված
       nsfw:
-        'false': Unhide media attachments
-        'true': Hide media attachments
-      report: 'Report #%{id}'
-      report_contents: Contents
-      reported_account: Reported account
-      reported_by: Reported by
-      resolved: Resolved
-      silence_account: Silence account
-      status: Status
-      suspend_account: Suspend account
-      target: Target
-      title: Reports
-      unresolved: Unresolved
-      view: View
+        'false': Ցուցադրել մեդիա կցորդները
+        'true': Թաքցնել մեդիա կցորդները
+      report: 'Բողոք #%{id}'
+      report_contents: Բովանդակություն
+      reported_account: Բողոքի թիրախ հաշիվ
+      reported_by: Բողոքել է
+      resolved: Լուծված
+      silence_account: Լռեցնել հաշիվը
+      status: Կարգավիճակ
+      suspend_account: Դադարեցնել հաշիվը
+      target: Թիրախ
+      title: Բողոքներ
+      unresolved: Չլուծված
+      view: Դիտել
     settings:
       activity_api_enabled:
-        desc_html: Counts of locally posted statuses, active users, and new registrations in weekly buckets
-        title: Publish aggregate statistics about user activity
+        desc_html: Տեղային թթերի, ակտիվ օգտատերերի եւ նոր գրանցումների քանակ շաբաթական կտրվածքով
+        title: Օգտատերերի ակտիվության հավաքանի վիճակագրության հրապարակում
       bootstrap_timeline_accounts:
-        desc_html: Separate multiple usernames by comma. Only local and unlocked accounts will work. Default when empty is all local admins.
-        title: Default follows for new users
+        desc_html: Առանձնացրու օգտանունները ստորակետով։ Գործելու է միայն տեղային ու չարգելափակված հաշիվների համար։ Դատարկ վիճակում լռելյայն տարբերակը բոլոր տեղային վարչապետներն են։
+        title: Լռելյայն բաժանորդագրություններ նոր օգտատերերի համար
       contact_information:
-        email: Business e-mail
-        username: Contact username
+        email: Գործնական էլ․ հասցե
+        username: Օգտանուն
       peers_api_enabled:
-        desc_html: Domain names this instance has encountered in the fediverse
-        title: Publish list of discovered instances
+        desc_html: Տիրույթներ՝ այս հանգույցը հանդիպել է դաշնեզերքում
+        title: Բացահայտված հանգույցների ցանկի հրապարակում
       registrations:
         closed_message:
-          desc_html: Displayed on frontpage when registrations are closed. You can use HTML tags
-          title: Closed registration message
+          desc_html: Ցուցադրվում է հիմնական էջում, երբ գրանցումները փակ են։ Կարող ես ԷյջԹիԷմԷլ թեգեր օգտագործել
+          title: Փակ գրանցման տեղեկացում
         deletion:
-          desc_html: Allow anyone to delete their account
-          title: Open account deletion
+          desc_html: Թույլատրել բոլորին ջնջել իրենց հաշիվները
+          title: Բաց հաշիվների հեռացում
         min_invite_role:
-          disabled: No one
-          title: Allow invitations by
+          disabled: Ոչ ոք
+          title: Ընտրել, թե ով կարող է հրավեր ուղարկել
         open:
-          desc_html: Allow anyone to create an account
-          title: Open registration
+          desc_html: Թույլատրել բոլորին հաշիվ ստեղծել
+          title: բաց գրանցում
       show_staff_badge:
-        desc_html: Show a staff badge on a user page
-        title: Show staff badge
+        desc_html: Ցուցադրել աշխատակցի կրծքանշանը օգտատիրոջ էջում
+        title: Աշխատակցի կրծքանշանի ցուցադրում
       site_description:
         desc_html: Introductory paragraph on the frontpage and in meta tags. You can use HTML tags, in particular <code>&lt;a&gt;</code> and <code>&lt;em&gt;</code>.
         title: Instance description
